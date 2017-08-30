@@ -1,0 +1,19 @@
+{
+  "name": "footnews",
+  "version": "1.0.0",
+  "description": "European Soccer News & Stats Website",
+  "main": "index.js",
+  "scripts": {
+    "test": "mocha",
+    "start": "node-dev index.js"
+  },
+  "author": "Uchenna Chilaka <Uchenna.Chilaka@alliancedata.com>",
+  "license": "UNLICENSED",
+  "dependencies": {
+    "express": "^4.15.4",
+    "install": "^0.10.1",
+    "mocha": "^3.5.0",
+    "npm": "^5.3.0",
+    "path": "^0.12.7"
+  }
+}
