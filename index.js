@@ -9,6 +9,8 @@ const path = require('path'),
     }
     ;
 
+// Add some code here... for no reason :) 
+
 // Serve static files from the "public" directory
 app.use(express.static(path.join(process.cwd(), 'public')));
 
